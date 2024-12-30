@@ -1,0 +1,11 @@
+pytest
+pandas
+numpy
+scikit-learn
+dagshub 
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+#-e .
